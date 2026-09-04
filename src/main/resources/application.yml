@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: aerosend-ancillary
+  datasource:
+    url: jdbc:postgresql://localhost:5432/aerosend   # read replica in prod
+    username: aerosend_ro
+    password: aerosend
+  rabbitmq:
+    host: localhost
+aerosend:
+  events-exchange: aerosend.events
+  sequencers:
+    smartlead:  { base-url: https://server.smartlead.ai/api/v1 }
+    instantly:  { base-url: https://api.instantly.ai/api/v2 }
+  burn-alerts:
+    max-bounce-rate: 0.03
+    min-reply-rate: 0.005
+    min-inbox-placement: 0.70
+    min-warmup-score: 85
+    max-hard-bounce-share: 0.5
+server:
+  port: 8082
