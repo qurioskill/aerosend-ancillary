@@ -7,3 +7,4 @@
 - Tune min reply rate to 0.5%
 - Webhook dispatcher DLQ binding
 - Domain variations: add 'meet' prefix
+- Warmupinbox score sync job
