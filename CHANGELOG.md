@@ -9,3 +9,4 @@
 - Domain variations: add 'meet' prefix
 - Warmupinbox score sync job
 - lemlist client skeleton
+- Fix mailbox sync when sequencer null
