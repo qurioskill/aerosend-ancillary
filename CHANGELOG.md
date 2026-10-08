@@ -11,3 +11,4 @@
 - lemlist client skeleton
 - Fix mailbox sync when sequencer null
 - Saleshandy client skeleton
+- Alert notifier logs breaches
