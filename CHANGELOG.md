@@ -12,3 +12,4 @@
 - Fix mailbox sync when sequencer null
 - Saleshandy client skeleton
 - Alert notifier logs breaches
+- Burn alerts: AT_RISK needs 2 signals
