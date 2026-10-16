@@ -14,3 +14,4 @@
 - Alert notifier logs breaches
 - Burn alerts: AT_RISK needs 2 signals
 - Woodpecker client skeleton
+- Smartlead daily limit update
