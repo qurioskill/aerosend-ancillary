@@ -15,3 +15,4 @@
 - Burn alerts: AT_RISK needs 2 signals
 - Woodpecker client skeleton
 - Smartlead daily limit update
+- Free tools: cap variations at 50
