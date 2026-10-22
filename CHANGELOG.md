@@ -16,3 +16,4 @@
 - Woodpecker client skeleton
 - Smartlead daily limit update
 - Free tools: cap variations at 50
+- Instantly: map provider_code
