@@ -17,3 +17,4 @@
 - Smartlead daily limit update
 - Free tools: cap variations at 50
 - Instantly: map provider_code
+- Retry policy for mailbox sync
