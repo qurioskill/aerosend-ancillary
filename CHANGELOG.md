@@ -19,3 +19,4 @@
 - Instantly: map provider_code
 - Retry policy for mailbox sync
 - Rabbit listener concurrency 4
+- Burn alert thresholds via config
